@@ -1,4 +1,13 @@
 .container{
+margin-right: 48px;
+}
+
+
+
+.flexRow{
+    display: flex;
+    justify-content: center;
+    padding-right: 200px;
     padding-left: 200px;
     padding-top: 100px;
-}
+  }
